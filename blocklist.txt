@@ -1,9 +1,9 @@
 [tekgadgt's block list]
-! Version: 3
+! Version: 4
 ! Title:  tekgadgt's block list
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/TekGadgt/custom-adblock-list
-! Lenth = 1
+! Length = 2
 
 ##.ytd-rich-grid-renderer.ytd-rich-grid-renderer.ytd-rich-item-renderer.ytd-rich-item-renderer.ytd-display-ad-renderer
-##.ytd-two-column-browse-results-renderer#masthead-ad.banner-promo-style-type-masthead-v2
+###masthead-ad
