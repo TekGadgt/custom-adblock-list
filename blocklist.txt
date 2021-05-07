@@ -1,5 +1,5 @@
 [tekgadgt's block list]
-! Version: 2
+! Version: 3
 ! Title:  tekgadgt's block list
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/TekGadgt/custom-adblock-list
