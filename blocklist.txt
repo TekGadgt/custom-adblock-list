@@ -6,3 +6,4 @@
 ! Lenth = 1
 
 ##.ytd-rich-grid-renderer.ytd-rich-grid-renderer.ytd-rich-item-renderer.ytd-rich-item-renderer.ytd-display-ad-renderer
+###masthead-ad
