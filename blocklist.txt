@@ -6,4 +6,4 @@
 ! Lenth = 1
 
 ##.ytd-rich-grid-renderer.ytd-rich-grid-renderer.ytd-rich-item-renderer.ytd-rich-item-renderer.ytd-display-ad-renderer
-###masthead-ad.banner-promo-style-type-masthead-v2
+##.ytd-two-column-browse-results-renderer#masthead-ad.banner-promo-style-type-masthead-v2
